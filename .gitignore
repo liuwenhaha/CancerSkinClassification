@@ -3,3 +3,5 @@
 venv
 skin-cancer-mnist-ham10000
 MNIST
+Losses.txt
+
